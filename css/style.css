@@ -1,0 +1,34 @@
+/* Put your CSS here */
+.ember-application {
+  margin: 20px;
+}
+
+.control-buttons{
+	width:200px;
+	height:30px;
+}
+
+.stickie{
+	background-color:yellow;
+	float:left;
+	margin:5px;
+	position:relative;
+}
+
+.glyphicon-trash{
+	float:right;
+}
+
+.glyphicon:empty {
+	width: 40px !important;
+}
+.glyphicon-trash:hover{
+	cursor:hand !important;
+}
+
+.content{
+	position:relative;
+	left:0px;
+	width:200px;
+	min-height:180px;
+}
